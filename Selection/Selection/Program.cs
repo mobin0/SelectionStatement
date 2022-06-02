@@ -54,6 +54,9 @@ namespace Selection
                 case "computer science":
                     Console.WriteLine("C# is cool and so is Python");
                     break;
+                default:
+                    Console.WriteLine("Learning is awesome.");
+                    break;
             }
         }
         static void Main(string[] args)
