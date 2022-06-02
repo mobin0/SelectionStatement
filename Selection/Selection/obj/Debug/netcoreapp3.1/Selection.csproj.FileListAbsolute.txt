@@ -1,0 +1,5 @@
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Selection\Selection\Selection\obj\Debug\netcoreapp3.1\Selection.csproj.AssemblyReference.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Selection\Selection\Selection\obj\Debug\netcoreapp3.1\Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Selection\Selection\Selection\obj\Debug\netcoreapp3.1\Selection.AssemblyInfoInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Selection\Selection\Selection\obj\Debug\netcoreapp3.1\Selection.AssemblyInfo.cs
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Selection\Selection\Selection\obj\Debug\netcoreapp3.1\Selection.csproj.CoreCompileInputs.cache
